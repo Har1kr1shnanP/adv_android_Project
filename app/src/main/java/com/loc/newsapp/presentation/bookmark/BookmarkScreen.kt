@@ -1,3 +1,4 @@
+//created by Rajan and Kristina
 package com.loc.newsapp.presentation.bookmark
 
 import androidx.compose.foundation.layout.Column
