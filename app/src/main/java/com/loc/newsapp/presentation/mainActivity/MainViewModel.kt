@@ -1,3 +1,4 @@
+//created by Hari and Kristina
 package com.loc.newsapp.presentation.mainActivity
 
 import androidx.compose.runtime.State

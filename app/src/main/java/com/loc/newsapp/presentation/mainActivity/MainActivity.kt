@@ -1,3 +1,4 @@
+//created by Rajan And Maziar
 package com.loc.newsapp.presentation.mainActivity
 
 import android.os.Bundle

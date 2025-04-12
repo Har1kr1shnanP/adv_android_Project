@@ -1,5 +1,5 @@
+//created by Maziar and Hari
 package com.loc.newsapp.domain.model
-
 import android.os.Parcelable
 import androidx.room.Entity
 import androidx.room.PrimaryKey

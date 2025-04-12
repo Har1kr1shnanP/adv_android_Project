@@ -1,3 +1,5 @@
+//created by Harikrishnan and Rajan
+
 package com.loc.newsapp.data.local
 
 import androidx.room.Dao
