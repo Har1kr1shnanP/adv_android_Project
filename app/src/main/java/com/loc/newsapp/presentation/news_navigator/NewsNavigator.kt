@@ -1,3 +1,5 @@
+//created by Kristina and maziar
+
 package com.loc.newsapp.presentation.news_navigator
 
 import android.util.Log
